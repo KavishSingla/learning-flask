@@ -1,6 +1,6 @@
 run = "python app.py"
 language = "python3"
-modules = ["python-3.11"]
+modules = ["python-3.11:v1-20240119-aaa4bb7"]
 [nix]
 channel = "stable-24_05"
 
